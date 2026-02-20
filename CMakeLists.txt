@@ -11,7 +11,6 @@ add_executable(JardinProyectoProgra2
         Arbol.cpp
         Flor.cpp
         Jardin.cpp
-        ../../Downloads/CImg_latest/CImg.h
-        ../../Downloads/CImg_latest/CImg.h
+        CImg.h
 )
 target_link_libraries(JardinProyectoProgra2 gdi32)
